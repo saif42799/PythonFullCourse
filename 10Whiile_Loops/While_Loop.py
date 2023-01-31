@@ -1,6 +1,8 @@
 #While loops = a statement that will execute its block of code as long
 #              as it's condition remains true
 
+user_answer = int(input("> "))
+
 name = ""
 
 while len(name) == 0:
