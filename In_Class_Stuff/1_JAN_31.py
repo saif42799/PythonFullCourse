@@ -14,3 +14,16 @@ s.add(3)
 
 setstuff = set(primes_below_10)
 print(setstuff)
+
+#all
+#any
+
+#sorting
+x = [4,1,2,3]
+t = [4,1,2,3]
+y = sorted(x)
+print(y)
+
+t.sort()
+print(t)
+
