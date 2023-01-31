@@ -14,3 +14,10 @@ number_two = int(input("Enter a second number: "))
 sum = number_one + number_two
 
 print("Sum: " + str(sum))
+
+
+#another way to write user input
+
+print('Enter your name: ')
+user_name = input()
+print('Hello, ' + user_name)
