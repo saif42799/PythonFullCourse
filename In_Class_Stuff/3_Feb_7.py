@@ -16,9 +16,9 @@ def word_count(list_of_word):
 
     for i in list_of_word:
         if i.islower():
-            word_list.append("o")
+            word_list.append("0")
         elif i.isupper():
-            word_list.append("I")
+            word_list.append("1")
         else:
             pass
     print(word_list)
