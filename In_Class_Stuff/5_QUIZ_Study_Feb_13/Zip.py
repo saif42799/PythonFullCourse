@@ -16,4 +16,8 @@ letters, numbers = zip(*pairs)
 # same as
 letters, numbers = zip(('a', 1), ('b', 2), ('c', 3))
 
+a_zip = (1, 3, 5) (2, 4, 6)
+print(list(a_zip))
+[(1,2),(3,4),(5,6)]
+
 
